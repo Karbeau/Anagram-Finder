@@ -1,4 +1,4 @@
-#Anagram Finder
+# Anagram Finder
 
 String <y> is an anagram of string <x> if <y> is a rearrangement of string <x>. 
 This implies that <y> and <x> have the same letters with the same amount of each letter. Example: “code” and “deco” are anagrams!
